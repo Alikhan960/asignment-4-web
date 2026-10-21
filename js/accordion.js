@@ -1,4 +1,4 @@
-/* Task 2 - Accordion for FAQ (author: Yelnur Akhmetzhan) */
+/* Task 2 - Accordion for FAQ  */
 (function () {
   "use strict";
 

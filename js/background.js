@@ -1,4 +1,4 @@
-/* Task 4 - Change background colour (author: Akejan Ahmetov) */
+/* Task 4 - Change background colour */
 (function () {
   "use strict";
 

@@ -1,4 +1,4 @@
-/* Task 3 - Popup subscription form (author: Akejan Ahmetov) */
+/* Task 3 - Popup subscription form */
 (function () {
   "use strict";
 

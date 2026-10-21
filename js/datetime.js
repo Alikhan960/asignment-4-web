@@ -1,4 +1,4 @@
-/* Task 5 - Current date and time (author: Yelnur Akhmetzhan) */
+/* Task 5 - Current date and time */
 (function () {
   "use strict";
 

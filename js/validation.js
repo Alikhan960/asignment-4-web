@@ -1,4 +1,4 @@
-/* Task 1 - Form validation (author: Alikhan Yertaiuly) */
+/* Task 1 - Form validation  */
 (function () {
   "use strict";
 
